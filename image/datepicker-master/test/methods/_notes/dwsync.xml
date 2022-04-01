@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="show.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+<file name="hide.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+<file name="pick.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+<file name="update.js" server="C:/xampp/htdocs/lab_booking_system/" local="131951950888791050" remote="131951950880000000" Dst="0" />
+<file name="reset.js" server="C:/xampp/htdocs/lab_booking_system/" local="131951950882720583" remote="131951950880000000" Dst="0" />
+<file name="getMonthName.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+<file name="getDayName.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+<file name="getDate.js" server="C:/xampp/htdocs/lab_booking_system/" local="131951950867704153" remote="131951950860000000" Dst="0" />
+<file name="setDate.js" server="C:/xampp/htdocs/lab_booking_system/" local="131951950861124472" remote="131951950860000000" Dst="0" />
+<file name="setStartDate.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+<file name="setEndDate.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+<file name="parseDate.js" server="C:/xampp/htdocs/lab_booking_system/" local="131951950875192371" remote="131951950870000000" Dst="0" />
+<file name="formatDate.js" server="C:/xampp/htdocs/lab_booking_system/" local="131951950856092420" remote="131951950850000000" Dst="0" />
+<file name="destroy.js" server="C:/xampp/htdocs/lab_booking_system/" local="131923054460000000" remote="131923054460000000" Dst="0" />
+</dwsync>

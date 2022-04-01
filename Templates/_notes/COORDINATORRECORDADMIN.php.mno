@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Record6" value="name:C_ID_NUMBER;datatype:string,name:C_IC_NUMBER;datatype:int,name:C_NAME;datatype:string,name:C_PHONE_NUMBER;datatype:int,name:C_EMAIL;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:C_ID_NUMBER;datatype:string,name:C_IC_NUMBER;datatype:int,name:C_NAME;datatype:string,name:C_PHONE_NUMBER;datatype:int,name:C_EMAIL;datatype:string,name:C_PASSWORD;datatype:string" />
+</info>

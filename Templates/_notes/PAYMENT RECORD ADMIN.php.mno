@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:USER_ID_NUMBER;datatype:string,name:PAYMENT_CODE;datatype:string,name:PAYMENT_NAME;datatype:string" />
+</info>

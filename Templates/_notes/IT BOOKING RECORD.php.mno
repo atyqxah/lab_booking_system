@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:IT_LAB_ID;datatype:string,name:IT_LAB_NAME;datatype:string,name:IT_LAB_TIME;datatype:time,name:IT_LAB_DATE;datatype:date,name:HOUR_USE;datatype:real,name:NUMBER_OF_PARTICIPANTS;datatype:int,name:USER_ID_NUMBER;datatype:string,name:ID_NUMBER;datatype:string,name:STAFF_ID_NUMBER;datatype:string" />
+</info>

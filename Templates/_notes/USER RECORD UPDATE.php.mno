@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RECORDUSER" value="name:USER ID NUMBER;datatype:string,name:USER NAME;datatype:string,name:USER IC NUMBER;datatype:int,name:USER DATE OF BIRTH;datatype:date,name:USER GENDER;datatype:string,name:USER EMAIL;datatype:string,name:USER PHONE NUMBER;datatype:int,name:USER ADDRESS;datatype:string" />
+	<infoitem key="UD_USERUPDATE" value="name:USER ID NUMBER;datatype:string,name:USER NAME;datatype:string,name:USER IC NUMBER;datatype:int,name:USER DATE OF BIRTH;datatype:date,name:USER GENDER;datatype:string,name:USER EMAIL;datatype:string,name:USER PHONE NUMBER;datatype:int,name:USER ADDRESS;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:USER_ID_NUMBER;datatype:string,name:USER_NAME;datatype:string,name:USER_IC_NUMBER;datatype:int,name:USER_DATE_OF_BIRTH;datatype:date,name:USER_GENDER;datatype:string,name:USER_EMAIL;datatype:string,name:USER_PHONE_NUMBER;datatype:int,name:USER_ADDRESS;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:USER_ID_NUMBER;datatype:string,name:USER_NAME;datatype:string,name:USER_IC_NUMBER;datatype:int,name:USER_DATE_OF_BIRTH;datatype:date,name:USER_GENDER;datatype:string,name:USER_EMAIL;datatype:string,name:USER_PHONE_NUMBER;datatype:int,name:USER_ADDRESS;datatype:string" />
+</info>
